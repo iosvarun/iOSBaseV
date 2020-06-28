@@ -1,0 +1,6 @@
+framework module Pods_BaseV_BaseVUITests {
+  umbrella header "Pods-BaseV-BaseVUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
